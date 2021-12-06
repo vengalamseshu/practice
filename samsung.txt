@@ -1,3 +1,0 @@
-remote
-netflix 
-youtube
